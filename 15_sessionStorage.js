@@ -1,0 +1,1 @@
+// methods are similar as local storage
