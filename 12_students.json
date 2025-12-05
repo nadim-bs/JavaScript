@@ -1,0 +1,61 @@
+{
+    "students":[
+    {
+    "name":"Rahim",
+    "middlename":null,
+    "age":24,
+    "cgpa":3.88,
+    "isRegistered":true,
+    "languages":["Bengali", "English", "Arabic"],
+    "friends":[
+        {
+            "name":"Anas",
+            "age":25
+        },
+        {
+             "name":"Rahul",
+             "age":27
+
+        }
+    ]
+},
+{
+    "name":"Karim",
+    "middlename":null,
+    "age":23,
+    "cgpa":3.88,
+    "isRegistered":true,
+    "languages":["Bengali", "English", "Arabic"],
+    "friends":[
+        {
+            "name":"Anas",
+            "age":25
+        },
+        {
+             "name":"Rahul",
+             "age":27
+
+        }
+    ]
+},
+{
+    "name":"Umar",
+    "middlename":null,
+    "age":24,
+    "cgpa":3.88,
+    "isRegistered":true,
+    "languages":["Bengali", "English", "Arabic"],
+    "friends":[
+        {
+            "name":"Anas",
+            "age":25
+        },
+        {
+             "name":"Rahul",
+             "age":27
+
+        }
+    ]
+}
+]
+}

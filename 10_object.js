@@ -1,4 +1,4 @@
-// object
+// object=>key:value
 let student1={
     name:"nadim",
     dept:"cse",
