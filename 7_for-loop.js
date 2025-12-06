@@ -41,3 +41,25 @@ numbers.forEach(function(x){
     console.log(x)
 
 })
+
+let num =[1,2,3,4,5]
+let square=[]
+num.forEach(function(x){
+    square.push(x*x)
+
+})
+console.log(square)
+
+// map: similar to for each.it returns new array. do not declare to array
+let squareNumber = num.map(function(x){
+    return x*x
+
+})
+console.log(squareNumber)
+
+// filter: filtering based on condition and return new array
+let filterArr =[2,4,11,10,45,80]
+let afterFilter = filterArr.filter(function(x){
+    return x>10
+})
+console.log(afterFilter)
