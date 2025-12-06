@@ -34,3 +34,10 @@ let students ={
 for(let x in students){
     console.log(`x, ${students[x]}`)
 }
+
+// for each
+let numbers =[10, 20, 60, 90]
+numbers.forEach(function(x){
+    console.log(x)
+
+})
