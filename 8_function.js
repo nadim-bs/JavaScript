@@ -1,4 +1,4 @@
-// normal function
+// 1. normal function
 function add(num1, num2){
     let res = num1 + num2;
     return res;
@@ -18,3 +18,15 @@ let func = function display(msg){
 }
 // call the fuhnction
 func("abcd")
+
+// 4. annonymous function
+// function(){
+//     // no function name.only function body
+
+// }
+// ES6 function
+const add = (x, y)=>{
+    // add is the function name
+    return x+y;
+
+}
