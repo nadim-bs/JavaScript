@@ -1,0 +1,21 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10_object.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadim-bs/JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadim-bs/JavaScript/issues"
+  },
+  "homepage": "https://github.com/nadim-bs/JavaScript#readme"
+}
