@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/nadim-bs/JavaScript/issues"
   },
-  "homepage": "https://github.com/nadim-bs/JavaScript#readme"
+  "homepage": "https://github.com/nadim-bs/JavaScript#readme",
+  "dependencies": {
+    "chai": "^6.2.1",
+    "mocha": "^11.7.5"
+  }
 }
