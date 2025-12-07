@@ -37,7 +37,7 @@ Promise.all([promise1, promise2])
     console.log(res)
 })
 
-// call all promise at a time and eceive all promise using destructure
+// call all promise at a time and receive all promise using destructure
 Promise.all([promise1, promise2])
 .then(([res1,res2])=>{
     console.log(res1, res2)
